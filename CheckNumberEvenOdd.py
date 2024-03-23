@@ -1,7 +1,7 @@
-#!/home/rajith/anaconda3/bin/python3
-number = 17
+CheckNumberEvenOdd
+#!#!/home/rajith/anaconda3/bin/python3
+number = 18
 if number % 2 == 0:
-    print(f"The number {number} is even.")
-else:
-    print(f"Print the number {number} is odd.")
-
+    print(f"The number {number} is even")
+else
+    print("Print the number is odd")

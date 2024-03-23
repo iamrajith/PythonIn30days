@@ -9,18 +9,23 @@ If you would like to learn more on day 1, please join with me. Working through a
    print(f"The area of the circle is {area:.2f} square units.")
   ```
 
-> We will get back to the high school!
+We will get back to the high school!
+{: .notice--info}
+{: style="text-align: justify;"}
+Pythagorean theorem 
+Let's revisit the Pythagorean Theorem which states that the sum of the squares of the two sides in a right angled triangle is equal to the square of the hypotenuse. 
+{: .notice--info}
+{: style="text-align: justify;"}
+Formula:
+a^2 + b^2 = c^2 
+{: .notice--info}
+{: style="text-align: justify;"}
+Let us calculate the Hypotenuse:
 
-> Pythagorean theorem 
-> Let's revisit the Pythagorean Theorem which states that the sum of the squares of the two sides in a right angled triangle is equal to the square of the hypotenuse. 
-> 
-> Formula:
-> a^2 + b^2 = c^2 
-
-> Let us calculate the Hypotenuse:
-
-> c^2  = a^2 + b^2  
-> Therefore, the value of "c" is the square root of a^2 + b^2.
+c^2  = a^2 + b^2  
+Therefore, the value of "c" is the square root of a^2 + b^2
+{: .notice--info}
+{: style="text-align: justify;"}
 
 2. **Check if a Number is Even or Odd**:
    ```python
