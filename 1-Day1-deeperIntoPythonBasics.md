@@ -9,7 +9,7 @@ If you would like to learn more on day 1, please join with me. Working through a
    print(f"The area of the circle is {area:.2f} square units.")
   ```
 
-<p>
+```diff
 We will get back to the high school!
 
 Pythagorean theorem 
@@ -24,7 +24,7 @@ Let us calculate the Hypotenuse:
 c^2  = a^2 + b^2  
 Therefore, the value of "c" is the square root of a^2 + b^2
 
-</p>
+```
 2. **Check if a Number is Even or Odd**:
    ```python
    number = 17
