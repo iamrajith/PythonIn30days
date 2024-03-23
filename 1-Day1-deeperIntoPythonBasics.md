@@ -78,7 +78,6 @@ Remember that `max()` is a powerful tool for finding the maximum value in variou
 Remember to modify and experiment with these examples. Happy coding! 🐍💡
 
 ## **Reference**
-- [Python Examples | Programiz. ](https://www.programiz.com/python-programming/examples.)
 - [(2) 10 Python Practice Exercises for Beginners With Detailed Solutions. ](https://learnpython.com/blog/python-practice-exercises-for-beginners/.)
 - [(3) Learn Python Programming - ](https://www.explorepython.com/.)
 - [Python Online Practice: 79 Unique Coding Exercises (2023) ](https://www.dataquest.io/blog/python-practice/.)
