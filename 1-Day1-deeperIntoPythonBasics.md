@@ -7,7 +7,20 @@ If you would like to learn more on day 1, please join with me. Working through a
    pi = 3.14159
    area = pi * (radius ** 2)
    print(f"The area of the circle is {area:.2f} square units.")
-   ```
+  ```
+
+> We will get back to the high school!
+
+> Pythagorean theorem 
+> Let's revisit the Pythagorean Theorem which states that the sum of the squares of the two sides in a right angled triangle is equal to the square of the hypotenuse. 
+> 
+> Formula:
+> a^2 + b^2 = c^2 
+
+> Let us calculate the Hypotenuse:
+
+> c^2  = a^2 + b^2  
+> Therefore, the value of "c" is the square root of a^2 + b^2.
 
 2. **Check if a Number is Even or Odd**:
    ```python
@@ -75,7 +88,7 @@ This example prompted me to ask a few questions: what is max(), and how does it 
 Remember that `max()` is a powerful tool for finding the maximum value in various contexts, and it's widely used in Python!
 
 
-Remember to modify and experiment with these examples. Happy coding! 🐍💡
+Remember to modify and experiment with these examples. Happy coding!
 
 ## **Reference**
 - [10 Python Practice Exercises for Beginners With Detailed Solutions. ](https://learnpython.com/blog/python-practice-exercises-for-beginners/.)
