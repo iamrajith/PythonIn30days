@@ -79,7 +79,7 @@ area = length * width
 print(f"The area of the rectangle is {area:.2f} square units.")
 ```
 
-*In this example, I was confused as to why 'f' is added in print(f"The area of the circle is {area:.2f} square units.").*
+*In this example, I was confused as to why 'f' is added in print(f"The area of the circle is {area:.2f} square units.").Afterr few google search I was able to get it.Here is what I found.*
 
 The `f` before the string in the example `print(f"The area of the circle is {area:.2f} square units.")` stands for **f-strings** (formatted string literals). Let me explain:
 
