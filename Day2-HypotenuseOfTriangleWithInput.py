@@ -13,10 +13,9 @@ def hypotenuse(a, b):
     """
     return (a**2 + b**2) ** 0.5
 
-# Check if the script is being run directly
-side_a = float(input("Please enter the length of side A: "))
-side_b = float(input("Please enter the length of side B: "))
+# Prompt the user to input the lengths of the two sides
+side_a = float(input("Enter the length of side A: "))
+side_b = float(input("Enter the length of side B: "))
 
-side_c = hypotenuse(side_a, side_b)
-
-print(f"The hypotenuse of the triangle with {side_a} and {side_b} is {side_c:.2f}")
+# Print the calculated hypotenuse with two decimal places
+print(f"The hypotenuse is approximately {hypotenuse(side_a, side_b):.2f}")
