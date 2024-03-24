@@ -4,7 +4,6 @@ Let's explore Python functions that calculate the hypotenuse of a triangle using
 
 1. **Calculate Hypotenuse**:
    - Compute the hypotenuse of a right triangle using the Pythagorean theorem.
-   - Example:
 
 ```python
 # Define a function called "hypotenuse"
@@ -32,34 +31,21 @@ print(f"The hypotenuse is approximately {hypotenuse(side_a, side_b):.2f}")
 
 2. **Age Classifier**:
    - Classify a person's age as an infant, child, teenager, or adult.
-   - Example:
-     ```python
-     def classify_age(age):
-         if age <= 1:
-             return "Infant"
-         elif 1 < age < 13:
-             return "Child"
-         elif 13 <= age < 20:
-             return "Teenager"
-         else:
-             return "Adult"
+ ```python
+ def classify_age(age):
+     if age <= 1:
+         return "Infant"
+     elif 1 < age < 13:
+         return "Child"
+     elif 13 <= age < 20:
+         return "Teenager"
+     else:
+         return "Adult"
 
-     user_age = int(input("Enter your age: "))
-     print(f"Your age group is {classify_age(user_age)}")
-     ```
+ user_age = int(input("Enter your age: "))
+    print(f"Your age group is {classify_age(user_age)}")
+ ```
 
-
-3. **Custom Greeting**:
-   - Create a personalized greeting based on the user's name and age.
-   - Example:
-     ```python
-     def custom_greeting(name, age):
-         return f"Hello, {name}! You are {age} years old."
-
-     user_name = input("Enter your name: ")
-     user_age = int(input("Enter your age: "))
-     print(custom_greeting(user_name, user_age))
-     ```
 
 Remember to handle user input validation (e.g., non-numeric input) and customize the examples further as needed.
 
