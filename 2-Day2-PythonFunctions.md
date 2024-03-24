@@ -1,9 +1,8 @@
 # 30 Days of Python: Day 2 - Python Functions
 
-Welcome to Day 2 of the **30 Days of Python** programming challenge! In this journey, we'll explore Python step by step, covering essential topics and practical examples. Whether you're a beginner or refreshing your skills, let's dive into Python functions today.
+Welcome to **Day 2 of the "30 Days of Python"** challenge! Let's explore Python step-by-step, covering essential topics with practical examples. Today, we'll dive into Python functions.
 
 ## Table of Contents
-1. [Introduction](#introduction)
 2. [What Are Functions?](#what-are-functions)
 3. [Defining Functions](#defining-functions)
 4. [Function Parameters](#function-parameters)
@@ -11,8 +10,6 @@ Welcome to Day 2 of the **30 Days of Python** programming challenge! In this jou
 6. [Examples](#examples)
 7. [References](#references)
 
-## Introduction
-Python is a high-level, open-source programming language known for its readability and versatility. Functions play a crucial role in Python, allowing us to organize code, reuse logic, and make our programs more modular.
 
 ## What Are Functions?
 - Functions are blocks of code that perform specific tasks.
@@ -22,13 +19,13 @@ Python is a high-level, open-source programming language known for its readabili
 ## Defining Functions
 To define a function, use the `def` keyword followed by the function name, parentheses, and a colon. The function body is indented.
 
-```python
-def greet(name):
-    """Print a greeting message."""
-    print(f"Hello, {name}!")
+- Syntax:
 
-# Call the function
-greet("Alice")
+```python
+def function_name(parameters):
+    # Function body
+    # ...
+    return result
 ```
 
 ## Function Parameters

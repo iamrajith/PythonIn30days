@@ -7,4 +7,4 @@ def divide(a,b):
         return "Cannot divide by zero"
 result = divide(10, 2)
 
-print(f"The result is {result}.")
+print(f"The result is {result:.2f}.")
