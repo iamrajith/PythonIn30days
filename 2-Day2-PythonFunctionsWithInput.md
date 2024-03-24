@@ -31,20 +31,21 @@ print(f"The hypotenuse is approximately {hypotenuse(side_a, side_b):.2f}")
 
 2. **Age Classifier**:
    - Classify a person's age as an infant, child, teenager, or adult.
- ```python
- def classify_age(age):
-     if age <= 1:
-         return "Infant"
-     elif 1 < age < 13:
-         return "Child"
-     elif 13 <= age < 20:
-         return "Teenager"
-     else:
-         return "Adult"
 
- user_age = int(input("Enter your age: "))
-    print(f"Your age group is {classify_age(user_age)}")
- ```
+     ```python
+     def classify_age(age):
+         if age <= 1:
+             return "Infant"
+         elif 1 < age < 13:
+             return "Child"
+         elif 13 <= age < 20:
+             return "Teenager"
+         else:
+             return "Adult"
+
+     user_age = int(input("Enter your age: "))
+     print(f"Your age group is {classify_age(user_age)}")
+     ```
 
 
 Remember to handle user input validation (e.g., non-numeric input) and customize the examples further as needed.
