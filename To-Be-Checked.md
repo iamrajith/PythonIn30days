@@ -1,0 +1,1 @@
+what is class in python ..and to be added with Understand Python’s syntax rules (indentation, comments, etc.).
